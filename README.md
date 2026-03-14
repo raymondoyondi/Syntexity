@@ -46,12 +46,12 @@ Follow these steps to get a local copy up and running.
    npm install
    ```
    
-3. **Install Frontend Dependencies**
+4. **Install Frontend Dependencies**
    ```
    cd ../client
    npm install
    
-4. **Environment Setup**
+5. **Environment Setup**
 Create a `.env` file in the `server` directory and add:
    ```
    REACT_APP_BACKEND_URL="http://localhost:5050"
@@ -60,7 +60,7 @@ Create a `.env` file in the `server` directory and add:
    MONGO_URL="mongodb uri"
    ```
    
-5. **Run the Application**
+6. **Run the Application**
 Open two terminals:
 
 - In `/server`: npm start
