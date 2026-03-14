@@ -50,6 +50,7 @@ Follow these steps to get a local copy up and running.
    ```
    cd ../client
    npm install
+   ```
    
 5. **Environment Setup**
 Create a `.env` file in the `server` directory and add:
